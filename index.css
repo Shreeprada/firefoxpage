@@ -9,7 +9,6 @@ h1{
  .container{
      width:100%;
      position: relative;
-     background: linear-gradient(to right,rgba(8,7,4) , rgba(245, 244, 244, 0.952));
      border:1px solid grey;
  }
  .container>video{
@@ -111,6 +110,7 @@ font-size: 60px;
     background-repeat: no-repeat;
     background-size: 100% 370px;
     position:relative;
+    box-shadow: inset 0px -100px 60px 0px black;
 }
 .flashgrid>div a{
   color:white;
